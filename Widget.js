@@ -61,7 +61,7 @@ console.log("Total: " + quoteData.length)
 
 //set and run widget
 let widget = new ListWidget()
-let req = new Request ('https://i.ibb.co/7JvNVMs/IMG-9521.jpg')
+let req = new Request ('https://i.ibb.co/zsnpWsG/IMG-9531.jpg')
 let image = await req.loadImage(https://i.ibb.co/7JvNVMs/IMG-9521.jpg)
 
 image.opacity =1  
