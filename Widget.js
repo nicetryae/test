@@ -61,7 +61,7 @@ console.log("Total: " + quoteData.length)
 
 //set and run widget
 let widget = new ListWidget()
-let req = new Request ('https://mis-productions.co.uk/apps/widgets_ios/quotes_trans_left.jpg')
+let req = new Request ('https://i.ibb.co/7JvNVMs/IMG-9521.jpg')
 let image = await req.loadImage()
 widget.backgroundImage = image
 image.opacity =1  
